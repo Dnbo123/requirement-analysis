@@ -82,6 +82,9 @@ Process Payments: Integrates with the payment gateway for secure transactions.
 Send Notifications: Sends booking confirmations and alerts.
 
 
+# Acceptance Criteria
+Acceptance criteria is important as it plays a crucial role in ensuring that all parties (developers, testers, and stakeholders) have a shared understanding of what success looks like for a particular feature. An example of acceptance criteria for a feature like the Checkout feature in the booking management system is when a user with a valid booking selection enters a valid payment detail and submits the form. This will prompt The system to processes the payment securely via the payment gateway. Once the booking is confirmed, a confirmation message is displayed and an email or SMS notification is sent to the user with booking details.
+
 
 
 
